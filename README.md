@@ -1,10 +1,20 @@
-# Python Fast API 
-
-Repositório destinado ao desenvolvimento de rotas basicas em Python utilizando FastAPI. 
-
-**Documentação**: https://fastapi.tiangolo.com
-
+<div align="center">
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="35" width="40"/> </a>
+
+# Python Fast API 
+</div>
+
+<p align="center">
+Repositório destinado ao desenvolvimento de rotas basicas em Python utilizando FastAPI. 
+<br>
+<br>
+  <strong>Documentação</strong>: https://fastapi.tiangolo.com
+<br>
+<br>
+<a href="https://pypi.org/project/fastapi" target="_blank">
+    <img src="https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058" alt="Supported Python versions">
+</a>
+</p>
 
 ##
 ### Instalação
