@@ -9,23 +9,21 @@ Repositório destinado ao desenvolvimento de rotas basicas em Python utilizando 
 ##
 ### Instalação
 
-Rode os comandos a seguir para instalar as dependencias do programa em um ambiente virtual
+Rode os comandos a seguir para instalar as dependencias do programa em um ambiente virtual na pasta do projeto.
 
-``pip3 install virtualenv ``
-
-``python -m venv venv``
-
-``.\venv\Scripts\activate.bat``
-
-``.\venv\Scripts\python -m pip install --upgrade pip``
-
-``pip3 install -r requirements.txt``
-
+```
+pip3 install virtualenv
+python -m venv venv
+.\venv\Scripts\activate.bat
+.\venv\Scripts\python -m pip install --upgrade pip
+pip3 install -r requirements.txt
+```
 
 Após a instalação das dependencias necessárias, para iniciar o projeto, é necessário rodar o seguinte comando:
 
-``uvicorn main:app --reload --host 0.0.0.0 --port 8000``
-
+```
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
 
 
 ##
